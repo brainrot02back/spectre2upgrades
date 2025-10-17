@@ -1,4 +1,4 @@
-# Enhanced Spectre Variant 2 Attack: Improvements
+# upgraded Spectre Variant 2 Attack: Improvements
 
 ## Multi-Threaded Attack
 
